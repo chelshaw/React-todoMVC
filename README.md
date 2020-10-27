@@ -1,9 +1,23 @@
-# React-todoMVC
+# React TodoMVC Example
+  
+This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-It seemed that http://todomvc.com/ didn't have a good react example.
+## Available Scripts
 
-The only one I [saw](https://github.com/tastejs/todomvc/tree/gh-pages/examples/react) used ES5
+In the project directory, you can run:
 
-This one uses ES6/ES7 and create-react-app
+### `yarn start`
 
-[Live: React-todoMVC](https://chriswiles.github.io/React-todoMVC)
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
